@@ -23,7 +23,8 @@
 ![Image text](https://github.com/xianhanyu/oracle/blob/main/test1/example1.jpg)
 
 第二条查询语句结果：
-![avatar](./example2.jpg)
+![Image text](https://github.com/xianhanyu/oracle/blob/main/test1/example2.jpg)
+
 
 ## 样例查询语句分析 ##
 
@@ -40,10 +41,9 @@ SELECT a.department_name,count(e.job_id)AS "部门总人数",avg(e.salary)as "�
 
 ## 查询语句、结果截图 ##
 
-查询语句：![avatar](./create1.jpg)
+查询语句：![Image text](https://github.com/xianhanyu/oracle/blob/main/test1/create1.jpg)
 
-查询结果：![avatar](./result1.jpg)
-
+查询结果：![Image text](https://github.com/xianhanyu/oracle/blob/main/test1/result1.jpg)
 ## 实验总结 ##
 
 本次实验是第一次对oracle数据库的查询，相比于Mysql数据库，前者跟后者的差距并不大，可能还需要后续更多的实验，我才能更加深刻感受到这两个数据库的不同之处。但在我看来，oracle数据库的查询，相较于Mysql有着更高的效率。
