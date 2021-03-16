@@ -20,7 +20,7 @@
 ## 样例查询语句结果 ##
 
 第一条查询语句结果：
-![avatar](./example1.jpg)
+![Image text](https://github.com/xianhanyu/oracle/blob/main/test1/example1.jpg)
 
 第二条查询语句结果：
 ![avatar](./example2.jpg)
